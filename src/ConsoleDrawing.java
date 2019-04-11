@@ -13,7 +13,7 @@ public class ConsoleDrawing {
 
         Triangle myTriangle = new Triangle(15, 7);
         System.out.println(myTriangle);
-
+//test
 //        System.out.println();
 //        System.out.println("Opdracht 2-3");
 //        System.out.println();
